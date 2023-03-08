@@ -1,4 +1,4 @@
-# Cisco Meraki Centralized WLC on a 3-Tier Campus LAN Architecture
+# Cisco ASA 5506-X Firewall Configuration on a 3-Tier Campus LAN Architecture
 
 ![image](https://github.com/ascotlan/Cisco-ASA-5506-X-Firewall-Configuration-on-a-3-Tier-Campus-LAN-Architecture/blob/main/topology.png)
 
